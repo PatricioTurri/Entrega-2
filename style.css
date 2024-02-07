@@ -1,12 +1,15 @@
 h1{
     color: aqua;
+    border-radius: 23cqi;
 }
 p{
     color: bisque;
 }
 li {
     color: brown;
+
 }
 h3{
     color: blue;
+    background-color: rgb(57, 44, 44);
 }
